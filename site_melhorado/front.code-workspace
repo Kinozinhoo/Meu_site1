@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/front"
+		},
+		{
+			"path": "../../Desktop/front segundo"
+		},
+		{
+			"path": "../meu_site"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "front segundo"
+	}
+}
